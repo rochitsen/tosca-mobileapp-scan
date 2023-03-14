@@ -57,7 +57,7 @@ Once the upload is complete, you will recieve a `app_url`back from the service. 
 ![Add app](./images/add-app.png).
 22. Click `Add` to save and close the screen. 
 23. Now click on `Advanced Configuration` button to open `Advanced configuration` screen. This is where we will configure our connection to Browserstack and app details that you uploaded previously.
-![Advanced Config](./images/advanced-config.png)
+![Advanced Config](./images/mobile-scan.png)
 24. Click on `Add Capabilities Set` button. This will add a new line in the left window pane. Enter the name as `Browserstack`.
 25. Now click on and select the newly created `Browserstack` capability set name and click `Add Capability` button. 
 26. Now under the `Desired Capability` table on the right, add the following capabilities. For `app_url` value, add the url that Browserstack upload API responded with when you uploaded the app. 
